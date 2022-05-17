@@ -14,7 +14,7 @@
 ## Findings
 #### According to actions done throug the analysis, we fail to reject the null hypothesis and found there is no difference in conversion rate between od and new pages,we find also according to regression results that As a final conclousion we can say that ab page and Country have no significane impact on page conversion, in addition, although it seems the conversion is similar for old and new pages, old page has a lead for conversion over the new page.
 
-## USed programmes and libraries to be installed:
+## USed programmes and libraries to be installed :
 - Python
 - Jupyter NoteBook
 - Pandas
